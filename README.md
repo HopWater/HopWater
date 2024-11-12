@@ -1,2 +1,2 @@
 Hi there 👋
-🔭 I’m currently working on Computer Science A.S. and OSSU
+🔭 I'm currently working on learning Python! 🐍 
