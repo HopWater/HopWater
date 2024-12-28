@@ -1,2 +1,2 @@
 Hi there 👋
-🔭 I'm currently working on learning Python! 🐍 
+🔭 I'm currently working on learning C! 🖥️
